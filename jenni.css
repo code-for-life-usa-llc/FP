@@ -1,0 +1,50 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  .navli {
+    float: left;
+  } 
+  .navli a {
+    display: block;
+    color: white; .  
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* Change the link color to #111 (black) on hover */
+  .navli a:hover {
+    background-color:rgb(17, 47, 103)
+  }
+
+h1 {
+  background-color: lightcoral;
+} 
+
+p{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+
+}
+
+body {
+  background-color: lightblue;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.shadow {
+  filter: drop-shadow(8px 8px 10px green);
+}

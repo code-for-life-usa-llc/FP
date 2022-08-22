@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="homepage.css">
+<ul id="navbar">
+    <li class = "navli"><a href="homePage.html">Home</a></li>
+    <li class = "navli"><a href="bad bunny.html">Bad Bunny</a></li>
+    <li class = "navli"><a href="jenni.html">Jenny Rivera</a></li>
+    <li class = "navli"><a href="Ivan Cornijo.html">Ivan Cornejo</a></li>
+    <li class = "navli"><a href="romeo.html">Romeo Santos</a></li>
+    <li class = "navli"><a href="dannylux.html">Danny Lux</a></li>
+    <li class = "navli"><a href="">Music Playlist</a></li>
+    <li class = "navli"><a href="about us.html">About Us</a></li>
+</ul>
+
+
+
+
+<div class="mySlides fade">
+    <div class="numbertext">1 / 5</div>
+    <img src="badbunny.jpeg" style="width:50%" class = "center">
+    <div class="text">Bad Bunny</div>
+  </div>
+  
+  
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 5</div>
+   <img src="jenni.webp" style="width:50%" class = "center">
+    <div class="text">Jenni Rivera</div>
+  </div>
+  
+  
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 5</div>
+    <img src="IvanCornejo.jpg" style="width:50%" class = "center">
+    <div class="text">Ivan Cornejo</div>
+  </div>
+  
+  
+  <div class="mySlides fade">
+      <div class="numbertext">4/ 5</div>
+      <img src="RomeoSantos.webp" style="width:50%" class = "center">
+      <div class="text">Romeo Santos</div>
+    </div></div>
+  
+  
+    <div class="mySlides fade">
+      <div class="numbertext">5 /5 </div>
+      <img src="DannyLux.jpg" style="width:50%" class = "center">
+      <div class="text">Danny Lux</div>
+    </div>
+    
+    

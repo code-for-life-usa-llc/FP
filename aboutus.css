@@ -1,0 +1,55 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  .navli {
+    float: left;
+  }
+  .navli a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* Change the link color to #111 (black) on hover */
+  .navli a:hover {
+    background-color:rgb(17, 47, 103);
+  }
+
+body{
+background-color:rgba(188, 60, 60, 0.874);
+text-align: center;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+
+
+p{
+    font-size: medium;
+    color: ;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("Usss.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}

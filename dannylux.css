@@ -1,0 +1,84 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:blue;
+    font-family: 'Times New Roman', Times, serif;
+ font-size: 20px;
+  }
+  .navli {
+    float: left;
+  }
+  .navli a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* Change the link color to #111 (black) on hover */
+  .navli a:hover {
+    background-color:rgb(17, 47, 103);
+  }
+  h1 {
+    background-color: lightskyblue;
+  }
+
+  h1:hover {
+background-color: lightpink;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+
+  img {
+    border: 10px solid lightblue;
+    border-radius: 10px;
+    padding: 5px;
+    width: 150px;
+  }
+
+  body {
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+    animation: gradient 3s ease infinite;
+    margin: 25px 50px;
+    background-size: cover;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+div{
+  text-align: center;
+  text-decoration: none;
+}
+
+#lol{
+  list-style-type: none;
+}
+
+#danny{
+
+  font-size: 70px;
+}

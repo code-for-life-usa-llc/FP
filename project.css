@@ -1,0 +1,96 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+  }
+  .navli {
+    float: left;
+  }
+  .navli a {
+    display: block;
+    color: rgb(247, 243, 243);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* Change the link color to #111 (black) on hover */
+  .navli a:hover {
+    background-color:rgb(17, 47, 103);
+
+}
+
+
+
+#romeo{
+  background-color: rgb(92, 158, 239);
+  margin: 35px 35px 55px 55px;
+}
+
+
+#text  {
+  text-shadow: 2px 2px 5px red;
+} 
+ 
+
+#shadow {
+  color: white;
+  background-color: #04ff9663;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+
+
+ button:hover {
+  background-color: #04ff9663;
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+figcaption{
+  text-align: center;
+
+}
+    
+body{
+
+  font-size: 25px;
+  margin-left: 100px;
+    margin-right: 100px;
+}
+button{
+  font-size: 25px;
+}
+
+img{
+  border: 10px solid red ;
+  padding: 15px;
+
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 101%;
+  padding: 100px;
+}
+h1{
+  text-decoration:overline;
+}

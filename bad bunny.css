@@ -1,0 +1,102 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:blue;
+    font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+  }
+  
+  .navli {
+    float: left;
+  }
+  
+  .navli a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .navli a:hover {
+    background-color:rgb(17, 47, 103);
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  body{
+    
+    background-image: url("oneeye.jpg");
+    background-color:rgb(248, 179, 179);
+    background-blend-mode:screen;
+    color:rgb(0, 0, 0);
+}
+
+
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  
+}
+  
+button{
+    background-color: aqua;
+}
+
+
+    h1{
+        text-shadow: 2px 2px 5px red;
+        font-size: 40px;
+        font-family:'Lucida Sans';
+
+    }
+
+    p{
+font-size: 25px;
+
+    }
+figcaption{
+    position: relative;
+    left: 250px;
+
+}
+
+ul{
+    list-style-type: square;
+}
+
+body {
+  margin: 25px 50px 75px 100px;
+  margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.polaroid{
+  position: relative;
+  left:10%;
+}
+
+#bb {
+  font-size: 70px;
+text-align: center;
+}
+
+
